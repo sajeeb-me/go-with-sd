@@ -1,21 +1,47 @@
 body{
     font-family: 'Ubuntu', sans-serif;
+    margin: 0;
 }
 .heading{
     font-family: 'Permanent Marker', cursive;
     font-size: 40px;
     line-height: 20px;
+    padding-left: 15px;
+    height: 100px;
+    border-left: 5px solid #038af6;
+    margin-bottom: 30px;
 }
-
 .flexible{
     display: flex;
+    margin-bottom: 30px;
+}
+.head-left{
+    margin: auto;
 }
 .wight-half{
     width: 50%;
+    margin-left: 5%;
 }
 .wight-half img{
     width: 80%;
 }
 .color-sky{
     color: #038af6;
+}
+.button{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #038af6;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.paragraph{
+    opacity: 80%;
+    line-height: 25px;
+    margin-bottom: 30px;
+    width: 80%;
+}
+.small{
+    opacity: 80%;
+    margin-top: 30px;
 }
