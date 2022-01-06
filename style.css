@@ -80,15 +80,6 @@ h2{
 #india{
     background-color: #fed1efc2;
 }
-footer{
-    color: #ffffff;
-    text-align: center;
-    background-color: #113c74;
-    padding: 20px 0;
-}
-.color-green{
-    color: #0bc2a9;
-}
 #background-paris{
     background-image: url(images/shape/shape-3.png);
     background-size: 200px;
@@ -100,4 +91,48 @@ footer{
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: right bottom;
+}
+.background-color{
+    background-color: #0bc2a9;
+    padding-top: 10px;
+    padding-bottom: 70px;
+}
+#white-text{
+    color: #ffffff;
+}
+legend{
+    font-size: 25px;
+    font-weight: 700;
+}
+fieldset{
+    border: 2px solid #ffffff;
+    border-radius: 20px;
+    margin: auto;
+    width: 80%;
+    color: #ffffff;
+    font-size: 22px;
+    ;
+}
+input, select{
+    color: #ffffff;
+    background-color: #0bc2a9;
+    border: 2px solid #ffffff;
+    border-radius: 4px;
+
+}
+
+
+
+
+
+
+footer{
+    color: #ffffff;
+    text-align: center;
+    background-color: #113c74;
+    padding: 20px 0;
+    margin-top: 100px;
+}
+.color-green{
+    color: #0bc2a9;
 }
