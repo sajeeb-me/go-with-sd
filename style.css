@@ -8,7 +8,7 @@ body{
     line-height: 20px;
     padding-left: 15px;
     height: 100px;
-    border-left: 5px solid #038af6;
+    border-left: 5px solid #0bc2a9;
     margin-bottom: 30px;
 }
 .flexible{
@@ -16,7 +16,7 @@ body{
     margin-top: 50px;
     margin-bottom: 100px;
 }
-.head-left{
+.horizonta-align{
     margin: auto;
 }
 .wight-half{
@@ -26,13 +26,14 @@ body{
 .wight-half img{
     width: 80%;
 }
-.color-sky{
-    color: #038af6;
+.color-blue{
+    color: #024eaf;
 }
 .button{
     text-decoration: none;
+    font-weight: 700;
     color: #ffffff;
-    background-color: #038af6;
+    background-color: #0bc2a9;
     padding: 10px 40px;
     border-radius: 5px;
 }
@@ -49,6 +50,7 @@ body{
 
 h2{
     font-size: 40px;
+    font-weight: 700;
 }
 .middle-align{
     text-align: center;
@@ -67,7 +69,7 @@ h2{
 .margin-righ-left{
     margin: auto;
     width: 90%;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 }
 #bali{
     background-color: #a3e4db85;
