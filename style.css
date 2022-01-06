@@ -1,0 +1,21 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
+.heading{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 40px;
+    line-height: 20px;
+}
+
+.flexible{
+    display: flex;
+}
+.wight-half{
+    width: 50%;
+}
+.wight-half img{
+    width: 80%;
+}
+.color-sky{
+    color: #038af6;
+}
