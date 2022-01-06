@@ -27,7 +27,7 @@ body{
     width: 80%;
 }
 .color-blue{
-    color: #024eaf;
+    color: #113c74;
 }
 .button{
     text-decoration: none;
@@ -79,4 +79,25 @@ h2{
 }
 #india{
     background-color: #fed1efc2;
+}
+footer{
+    color: #ffffff;
+    text-align: center;
+    background-color: #113c74;
+    padding: 20px 0;
+}
+.color-green{
+    color: #0bc2a9;
+}
+#background-paris{
+    background-image: url(images/shape/shape-3.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+#background-why{
+    background-image: url(images/shape/shape-3.png);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: right bottom;
 }
